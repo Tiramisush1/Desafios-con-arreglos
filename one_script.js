@@ -11,3 +11,6 @@ function alwaysHungry(arr) {
         console.log("tengo hambre");
     }
 }
+alwaysHungry([3.14, "comida", "pastel", true, "comida"]);
+
+alwaysHungry([4, 1, 5, 7, 2]);
